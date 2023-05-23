@@ -139,7 +139,6 @@ print("Number of people who are single or divorced and getting loans:", count)
 print("Divorce rate in the dataset: {:.2f}%".format(divorce_rate))
 
 
-# In[ ]:
 
 
 
